@@ -1,0 +1,23 @@
+{
+  "name": "a-hook",
+  "version": "0.0.1",
+  "description": "React hooks library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njueyupeng/a-hook.git"
+  },
+  "keywords": [
+    "hook",
+    "react-hook"
+  ],
+  "author": "yupeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njueyupeng/a-hook/issues"
+  },
+  "homepage": "https://github.com/njueyupeng/a-hook#readme"
+}
