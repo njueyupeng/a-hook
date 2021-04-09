@@ -1,6 +1,6 @@
 # a-hook
 React Hooks Library
 
-![npm](https://img.shields.io/npm/v/a-hook)
-![npm](https://img.shields.io/npm/dm/a-hook)
+[![npm version](https://badge.fury.io/js/a-hook.svg)](https://badge.fury.io/js/a-hook)
+<!-- ![npm](https://img.shields.io/npm/dm/a-hook) -->
 ![NPM](https://img.shields.io/npm/l/a-hook)
